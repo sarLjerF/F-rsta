@@ -8,3 +8,5 @@ if x == 1:
 else:
     for i in range (10000):
         print ("bajs")
+
+print ("lite exstra kåd")
